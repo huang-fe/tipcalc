@@ -54,7 +54,7 @@ class MainActivity : AppCompatActivity() {
                 Log.i(TAG, "afterTextChanged $p0")
                 computeTipAndTotal()
             }
-
+// add comment
         })
     }
 
